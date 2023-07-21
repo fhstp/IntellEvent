@@ -17,4 +17,5 @@ General requirements:
 bernhard.dumphart@fhstp.ac.at
 
 
-
+# LICENSE
+Attribution-NonCommercial-ShareAlike 4.0 Internationa
