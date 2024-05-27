@@ -9,12 +9,12 @@ win-64, Python 3.7, numpy==1.18.5, tensorflow==2.3.0, scikit-learn==1.0.2, panda
      1. For installation refer to the specific website
 3. Create a new Project
    1. After the installation of your preferred __IDE__ and Anaconda create a new Project with your preferred name and location.
-5. Create a new Anaconda environment
+4. Create a new Anaconda environment
    1. Create a new Anaconda environment in your __IDE__ or in the __'Anaconda Navigator'__ using __Python Version 3.7__
    2. Download the __'requirements.txt'__ from this folder and copy it to your specific __project folder__
    3. In the __'Terminal'__ of your __IDE__ enter the following code: ```pip install -r requirements.txt```
 5. The package __ezc3d__ and the __Vicon Nexus API__ need to be installed separately.
-  1. Enter the following code into your __'Terminal'__ to install the __ezc3d__ package: ```conda install -c conda-forge ezc3d```
+   1. Enter the following code into your __'Terminal'__ to install the __ezc3d__ package: ```conda install -c conda-forge ezc3d```
 6. Install the __Vicon Nexus API__
    1. For further information follow the steps on the [Vicon Documentation](https://docs.vicon.com/display/Nexus212/Set+up+Python+for+use+with+Nexus)
    2. Open a __Windows Terminal (cmd)__ and activate your __Anaconda Environment__: ```conda activate IntellEvent```
@@ -26,4 +26,6 @@ cd "C:\Program Files (x86)\Vicon\Nexus2.12\SDK\Win32\Python"
 # install the api into a specific python distribution
 pip install ./viconnexusapi
 ```
-
+7. Start the __'server_intellevent.py'__ in your chosen IDE and let it run in the background
+8. Create a new __'Run Python Operation'__ in Vicon Nexus and enter the same .py files as in the picture below:
+![image](https://github.com/fhstp/IntellEvent/assets/46668746/5c799c14-7821-4ff8-91eb-fa0737a60373)
