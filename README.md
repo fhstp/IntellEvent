@@ -18,4 +18,4 @@ bernhard.dumphart@fhstp.ac.at
 
 
 ## License
-Attribution-NonCommercial-ShareAlike 4.0 Internationa
+Creative Commons Attribution 4.0 International Public License
