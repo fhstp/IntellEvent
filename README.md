@@ -1,10 +1,10 @@
 # IntellEvent
 
 ## Introduction
-Intellevent is a robust deep learning-based framework for gait event detection across various pathologies for 3D motion capture data. By leveraging deep learning models, Intellevent accurately detects gait events (initial contact (IC) and foot off (FO)) in patients with different clinical conditions, including malrotation deformities and/or frontal malalignments of the lower extremities, club foot, cerebral palsy, drop foot, and healthy participants. IntellEvent ensures reliable and precise gait events even in complex pathological cases (IC: < 5.5 ms @150 Hz, FO: < 11.4 ms @150 Hz ). For more detailed information, refer to the original paper: [Robust deep learning-based gait event detection across various pathologies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
+*IntellEvent* is a robust deep learning-based framework for gait event detection across various pathologies for 3D motion capture data. By leveraging deep learning models, *IntellEvent* accurately detects gait events (initial contact (IC) and foot off (FO)) in patients with different clinical conditions, including malrotation deformities and/or frontal malalignments of the lower extremities, club foot, cerebral palsy, drop foot, and healthy participants. *IntellEvent* ensures reliable and precise gait events even in complex pathological cases (IC: < 5.5 ms @150 Hz, FO: < 11.4 ms @150 Hz ). For more detailed information, refer to the original paper: [Robust deep learning-based gait event detection across various pathologies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
 
 ## Dataset
-The dataset used for IntellEvent consists of a comprehensive retrospective clinical 3D gait analysis (3DGA) dataset:
+The dataset used for *IntellEvent* consists of a comprehensive retrospective clinical 3D gait analysis (3DGA) dataset:
 
 - **Total Subjects**: 1211 patients and 61 healthy controls
 
@@ -27,7 +27,7 @@ If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a
 3) Start the `vicon_server.exe`. <br><br>
    <img src="img/vicon_server.png" alt="Starting the vicon_server" height=300, width="700"> <br><br>
 4) Create a new `Run Python Operation` in a Vicon Nexus pipeline from the operation `Data Processing` tab. Add the `vicon_pipeline.py` to the `Python script file` path. <br> <br>
-   <img src="img/vicon_pipeline.png" alt="Vicon Nexus IntellEvent pipeline" height=180, width="500"> <br><br>
+   <img src="img/vicon_pipeline.png" alt="Vicon Nexus *IntellEvent* pipeline" height=180, width="500"> <br><br>
 5) Run the pipeline and save time!
 
 # Further Development
@@ -45,7 +45,7 @@ The current model achieves the following Mean Absolute Errors (MAE) in milliseco
 | **FO MAE [ms]** | 7.9   | 8.7   | 9.9   | 11.3   | 8.3   |
 
 # Citation
-If you are using IntellEvent in your research we would appreciate a citation. 
+If you are using *IntellEvent* in your research we would appreciate a citation. 
 > [1] B. Dumphart et al., ‘Robust deep learning-based gait event detection across various pathologies’, *PLOS ONE*, vol. 18, no. 8, p. e0288555, Aug. 2023, doi: 10.1371/journal.pone.0288555.
 ```
 @article{dumphartRobustDeepLearningbased2023,
@@ -65,7 +65,7 @@ If you are using IntellEvent in your research we would appreciate a citation.
 
 
 # Contact
-If you need any help, have further ideas, or have questions regarding IntellEvent pleas feel free to contact me!
+If you need any help, have further ideas, or have questions regarding *IntellEvent* please feel free to contact me!
 ```
 bernhard.dumphart@fhstp.ac.at
 ```
