@@ -30,10 +30,15 @@ If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a
    <img src="img/vicon_pipeline.png" alt="Vicon Nexus *IntellEvent* pipeline" height=180, width="500"> <br><br>
 5) Run the pipeline and save time!
 
-# Further Development
-- Turning Tasks
-- Running
-- Fine Tuning
+# Future Developments
+- **Integrating Further Movement Tasks**:
+  - Turning
+  - Running
+- **Ensuring Robustness for Different Laboratory Settings**:
+  - Standardize data preprocessing from multiple laboratory sources
+  - Utilize data from different labs
+- **Integrating Fine-Tuning Pipeline**
+- **Implement a Pipeline for Continuous Refinement and Optimization**
 
 
 # Current Results
@@ -68,6 +73,12 @@ If you are using *IntellEvent* in your research we would appreciate a citation.
 If you need any help, have further ideas, or have questions regarding *IntellEvent* please feel free to contact me!
 ```
 bernhard.dumphart@fhstp.ac.at
+```
+```
+djordje.slijepcevic@fhstp.ac.at
+```
+```
+brian.horsak@fhstp.ac.at
 ```
 
 # License
