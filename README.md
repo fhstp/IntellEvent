@@ -21,7 +21,7 @@ If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a
 
 # Vicon Nexus Usage
 
-1) Download the `25_IntellEvent.zip` folder from the release here.
+1) Download the `25_IntellEvent.zip` folder from the release **[here](https://github.com/fhstp/IntellEvent/releases/download/untagged-4ad0e5b0b8a10e2a2846/25_IntellEvent.zip)**.
 2) Extract the files to a folder of your choice. **Note:** All files must be loacated in the same folder. <br><br>
    <img src="img/extracted_folder.png" alt="Extracted Folder" height=300, width="700"> <br><br>
 3) Start the `vicon_server.exe`. <br><br>
