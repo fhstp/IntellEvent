@@ -16,7 +16,7 @@ The dataset used for *IntellEvent* consists of a comprehensive retrospective cli
 - **Healthy controls (HC)**: 61 subjects
 
 # Requirements
-**This framework has been tested with Vicon Nexus version 2.14 and higher. No installation require!** <br>
+**This framework has been tested with Vicon Nexus version 2.14 and higher. No installation required!** <br>
 If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a solution. 
 
 # Vicon Nexus Usage
