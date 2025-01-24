@@ -15,6 +15,10 @@ The dataset used for *IntellEvent* consists of a comprehensive retrospective cli
 - **Cerebral palsy with only drop foot characteristics (DF)**: 17 subjects
 - **Healthy controls (HC)**: 61 subjects
 
+## Marker Inputs
+- The current model for IC detection uses the anterior-posterior (plane of motion) and vertical velocity of the left and right `HEEL`, `ANKLE`, and `TOE` markers.
+- The current model for FO detection uses the anterior-posterior (plane of motion), medio-lateral, and vertical velocity of the left and right `HEEL`, `ANKLE`, and `TOE` markers.
+
 # Requirements
 **This framework has been tested with Vicon Nexus version 2.14 and higher. No installation required!** <br>
 If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a solution. 
