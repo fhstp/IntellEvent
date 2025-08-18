@@ -3,7 +3,7 @@
 ## Introduction
 *IntellEvent* is a robust deep learning-based framework for gait event detection across various pathologies for 3D motion capture data. By leveraging deep learning models, *IntellEvent* accurately detects gait events (initial contact (IC) and foot off (FO)) in patients with different clinical conditions, including malrotation deformities and/or frontal malalignments of the lower extremities, club foot, cerebral palsy, drop foot, and healthy participants. *IntellEvent* ensures reliable and precise gait events even in complex pathological cases (IC: < 5.5 ms @150 Hz, FO: < 11.4 ms @150 Hz ). For more detailed information, refer to the original paper: 
 
-Dumphart, B., Slijepcevic, D., Zeppelzauer, M., Kranzl, A., Unglaube, F., Baca, A., & Horsak, B. (2023). Robust deep learning-based gait event detection across various pathologies. Plos one, 18(8), e0288555. [https://doi.org/10.1371/journal.pone.0288555](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
+>Dumphart, B., Slijepcevic, D., Zeppelzauer, M., Kranzl, A., Unglaube, F., Baca, A., & Horsak, B. (2023). Robust deep learning-based gait event detection across various pathologies. *PLOS ONE*, 18(8), e0288555. [https://doi.org/10.1371/journal.pone.0288555](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
 
 ## Dataset
 The dataset used for *IntellEvent* consists of a comprehensive retrospective clinical 3D gait analysis (3DGA) dataset:
@@ -57,7 +57,7 @@ The current model achieves the following Mean Absolute Errors (MAE) in milliseco
 
 # Citation
 If you are using *IntellEvent* in your research we would appreciate a citation. 
-> [1] B. Dumphart et al., ‘Robust deep learning-based gait event detection across various pathologies’, *PLOS ONE*, vol. 18, no. 8, p. e0288555, Aug. 2023, doi: 10.1371/journal.pone.0288555.
+> [1] Dumphart, B., Slijepcevic, D., Zeppelzauer, M., Kranzl, A., Unglaube, F., Baca, A., & Horsak, B. (2023). Robust deep learning-based gait event detection across various pathologies. *PLOS ONE*, 18(8), e0288555. [https://doi.org/10.1371/journal.pone.0288555](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
 ```
 @article{dumphartRobustDeepLearningbased2023,
   title = {Robust Deep Learning-Based Gait Event Detection across Various Pathologies},
