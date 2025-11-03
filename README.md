@@ -5,6 +5,10 @@
 
 >Dumphart, B., Slijepcevic, D., Zeppelzauer, M., Kranzl, A., Unglaube, F., Baca, A., & Horsak, B. (2023). Robust deep learning-based gait event detection across various pathologies. *PLOS ONE*, 18(8), e0288555. [https://doi.org/10.1371/journal.pone.0288555](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288555).
 
+Why is this important? Timing errors as **small as 13.3-20 ms (2-3 frames @150 Hz)** can lead to deviations in knee and ankle kinematic often **exceeding 2°, or even 5°**, potentially affecting clinical interpretations and research outcomes. Based on these insights, we **recommend stricter accuracy thresholds** for gait event detection algorithms to ensure reliable clinical gait analysis data.
+> Dumphart, B., Slijepcevic, D., Unglaube, F., Kranzl, A., Baca, A., & Horsak, B. (2026). The effect of inaccurate initial contact events on kinematics in healthy and pathological gait. Gait & Posture, 123, 110012. [https://doi.org/10.1016/j.gaitpost.2025.110012](https://www.sciencedirect.com/science/article/pii/S0966636225007398?via%3Dihub).
+
+
 ## Dataset
 The dataset used for *IntellEvent* consists of a comprehensive retrospective clinical 3D gait analysis (3DGA) dataset:
 
