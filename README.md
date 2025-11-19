@@ -82,13 +82,13 @@ If you are using *IntellEvent* in your research we would appreciate a citation.
 # Contact
 If you need any help, have further ideas, or have questions regarding *IntellEvent* please feel free to contact me!
 ```
-bernhard.dumphart@fhstp.ac.at
+bernhard.dumphart@ustp.at
 ```
 ```
-djordje.slijepcevic@fhstp.ac.at
+djordje.slijepcevic@ustp.at
 ```
 ```
-brian.horsak@fhstp.ac.at
+brian.horsak@ustp.at
 ```
 
 # License
